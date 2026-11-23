@@ -24,7 +24,7 @@ button{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 10px 150px;
+    margin: 10px 170px;
 }
 
 .logo{
@@ -47,7 +47,7 @@ button{
 }
 .header-links a{
     text-decoration:none;
-    color: #F9FAF8;
+    color: #E5E7EB;
 }
 
 /* ------------------BODY1------------------ */
@@ -59,7 +59,7 @@ button{
     justify-content: space-between;
     align-items: center;
     flex:auto;
-    margin: 72px 150px;
+    margin: 72px 170px;
     
 }
 
@@ -68,12 +68,18 @@ button{
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    margin-bottom: 0px;
+}
+.body1 p{
+    margin-top: 2px;
+    margin-bottom: 8px;
+
 }
 
 
 
 .body1 img{
-    width: 500px;
+    width: 620px;
     height: auto;
     padding-left: 20px;
 }
@@ -135,16 +141,16 @@ button{
 .quote h2{
     font-size: 36px;
     color: #1F2937;
-    font-weight: 300;
+    font-weight: 100;
     font-style: italic;
-    margin: 100px 220px 0;
+    margin: 100px 310px 0;
 }
 .quote p{
     color: #1F2937;
     font-size: 24px;
     font-weight: 900;
     text-align: end;
-    margin: 0 220px 100px;
+    margin: 0 310px 100px;
 }
 
 /* ----------------Body3---------------- */
@@ -167,7 +173,7 @@ button{
 }
 
 .signup-container{
-    margin: 90px 130px;
+    margin: 100px 170px;
     background-color: #3882F6;
     color: #E5E7EB;
     border-radius: 7px;
@@ -177,7 +183,7 @@ button{
 }
 
 .container-text{
-    margin: 10px 0;
+    margin: 30px 0;
 }
 
 /* --------------FOOTER-------------- */
